@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/mxmvshnvsk/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?&color=red&style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" />
   </a>
+  <a href="https://twitter.com/mxmvshnvsk" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&color=red&style=for-the-badge&logo=twitter&logoColor=white alt="Instagram" />
+  </a>
   <a href="https://www.instagram.com/mxmvshnvsk/" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%2300acee.svg?&color=red&style=for-the-badge&logo=instagram&logoColor=white alt="Instagram" />
   </a>
