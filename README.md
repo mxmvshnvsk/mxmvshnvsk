@@ -6,7 +6,7 @@
 
 * Technologies - JavaScript, TypeScript, Vue.js, React.js, Node.js
 
-* Languages - Russian🇷🇺 English🇬🇧
+* Languages - Russian, English
 
 #### Where to find me
 
