@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p> Welcome to my GH profile <br> I'm Maxim Vishnevsky, JavaScript developer </p>
+<p> Welcome to my GH profile <br> I'm Maxim Vishnevsky, JavaScript Developer </p>
 
 #### 5+ years of experience in web development
 
