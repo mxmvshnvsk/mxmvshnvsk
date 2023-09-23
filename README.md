@@ -2,7 +2,7 @@
 
 <p> Welcome to my GH profile <br> I'm Maxim Vishnevsky, JavaScript Developer </p>
 
-#### 5+ years of experience in web development
+#### 10+ years of experience in web development
 
 * Technologies - JavaScript, TypeScript, Vue.js, React.js, Node.js
 
