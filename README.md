@@ -10,8 +10,6 @@
 
 #### Where to find me
 
-Also I'll be glad, if you subscripe to my [tg-channel](https://t.me/mxmvshnvsk_stories).
-
 <div>
   <a href="https://github.com/mxmvshnvsk" target="_blank">
     <img src=https://img.shields.io/badge/github-%2300acee.svg?&color=black&style=for-the-badge&logo=github&logoColor=white alt="GitHub" />
@@ -23,3 +21,5 @@ Also I'll be glad, if you subscripe to my [tg-channel](https://t.me/mxmvshnvsk_s
     <img src=https://img.shields.io/badge/medium-%2300acee.svg?&color=white&style=for-the-badge&logo=medium&logoColor=black alt="Medium" />
   </a>
 </div>
+
+Also I'll be glad, if you subscribe to my [tg-channel](https://t.me/mxmvshnvsk_stories).
