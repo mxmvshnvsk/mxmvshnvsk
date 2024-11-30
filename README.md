@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-<p> Welcome to my GH profile <br> I'm Maxim Vishnevsky, JavaScript Developer </p>
+<p> Welcome to my GH profile <br> I'm Maxim Vishnevsky, Software Architect and Frontend lover </p>
 
 #### 10+ years of experience in web development
 
-* Technologies - JavaScript, TypeScript, Vue.js, React.js, Node.js
+* Technologies - JavaScript, TypeScript, Vue.js, React.js, Node.js, Python
 
 * Languages - Russian, English
 
 #### Where to find me
+
+Also I'll be glad, if you subscripe to my [tg-channel](https://t.me/mxmvshnvsk_stories).
 
 <div>
   <a href="https://github.com/mxmvshnvsk" target="_blank">
